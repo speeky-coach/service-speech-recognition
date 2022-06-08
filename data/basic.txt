@@ -1,0 +1,355 @@
+Detects speech in the audio file
+{
+  operation: Operation {
+    _events: [Object: null prototype] {
+      newListener: [Function (anonymous)],
+      removeListener: [Function (anonymous)]
+    },
+    _eventsCount: 2,
+    _maxListeners: undefined,
+    completeListeners: 0,
+    hasActiveListeners: false,
+    latestResponse: { name: '2373061026790993251', metadata: null, done: false },
+    name: '2373061026790993251',
+    done: false,
+    error: undefined,
+    longrunningDescriptor: LongRunningDescriptor {
+      operationsClient: [OperationsClient],
+      responseDecoder: [Function: bound decode_setup],
+      metadataDecoder: [Function: bound decode_setup]
+    },
+    result: null,
+    metadata: null,
+    backoffSettings: {
+      initialRetryDelayMillis: 100,
+      retryDelayMultiplier: 1.3,
+      maxRetryDelayMillis: 60000,
+      initialRpcTimeoutMillis: null,
+      rpcTimeoutMultiplier: null,
+      maxRpcTimeoutMillis: null,
+      totalTimeoutMillis: null
+    },
+    _callOptions: CallSettings {
+      timeout: 5000000,
+      retry: [Object],
+      autoPaginate: true,
+      pageToken: undefined,
+      maxResults: undefined,
+      otherArgs: [Object],
+      bundleOptions: null,
+      isBundling: true,
+      longrunning: undefined,
+      apiName: 'google.cloud.speech.v1.Speech',
+      retryRequestOptions: undefined
+    },
+    [Symbol(kCapture)]: false
+  }
+}
+Get a Promise representation of the final result of the job
+{
+  response: LongRunningRecognizeResponse {
+    results: [
+      [SpeechRecognitionResult],
+      [SpeechRecognitionResult],
+      [SpeechRecognitionResult],
+      [SpeechRecognitionResult],
+      [SpeechRecognitionResult],
+      [SpeechRecognitionResult],
+      [SpeechRecognitionResult],
+      [SpeechRecognitionResult],
+      [SpeechRecognitionResult],
+      [SpeechRecognitionResult],
+      [SpeechRecognitionResult],
+      [SpeechRecognitionResult]
+    ],
+    totalBilledTime: Duration { seconds: [Long] }
+  }
+}
+{
+  result: SpeechRecognitionResult {
+    alternatives: [ [SpeechRecognitionAlternative] ],
+    resultEndTime: Duration { seconds: [Long], nanos: 780000000 },
+    languageCode: 'en-us'
+  }
+}
+{
+  alternatives: [
+    SpeechRecognitionAlternative {
+      words: [],
+      transcript: 'okay I have a pronunciation quiz for you',
+      confidence: 0.9669066071510315
+    }
+  ]
+}
+{
+  alternative_0: SpeechRecognitionAlternative {
+    words: [],
+    transcript: 'okay I have a pronunciation quiz for you',
+    confidence: 0.9669066071510315
+  }
+}
+{
+  result: SpeechRecognitionResult {
+    alternatives: [ [SpeechRecognitionAlternative] ],
+    resultEndTime: Duration { seconds: [Long], nanos: 630000000 },
+    languageCode: 'en-us'
+  }
+}
+{
+  alternatives: [
+    SpeechRecognitionAlternative {
+      words: [],
+      transcript: " I'm ready what is it",
+      confidence: 0.9324958920478821
+    }
+  ]
+}
+{
+  alternative_0: SpeechRecognitionAlternative {
+    words: [],
+    transcript: " I'm ready what is it",
+    confidence: 0.9324958920478821
+  }
+}
+{
+  result: SpeechRecognitionResult {
+    alternatives: [ [SpeechRecognitionAlternative] ],
+    resultEndTime: Duration { seconds: [Long], nanos: 610000000 },
+    languageCode: 'en-us'
+  }
+}
+{
+  alternatives: [
+    SpeechRecognitionAlternative {
+      words: [],
+      transcript: " I'm ready what is it",
+      confidence: 0.9517942667007446
+    }
+  ]
+}
+{
+  alternative_0: SpeechRecognitionAlternative {
+    words: [],
+    transcript: " I'm ready what is it",
+    confidence: 0.9517942667007446
+  }
+}
+{
+  result: SpeechRecognitionResult {
+    alternatives: [ [SpeechRecognitionAlternative] ],
+    resultEndTime: Duration { seconds: [Long], nanos: 160000000 },
+    languageCode: 'en-us'
+  }
+}
+{
+  alternatives: [
+    SpeechRecognitionAlternative {
+      words: [],
+      transcript: " what's the diff",
+      confidence: 0.9876291155815125
+    }
+  ]
+}
+{
+  alternative_0: SpeechRecognitionAlternative {
+    words: [],
+    transcript: " what's the diff",
+    confidence: 0.9876291155815125
+  }
+}
+{
+  result: SpeechRecognitionResult {
+    alternatives: [ [SpeechRecognitionAlternative] ],
+    resultEndTime: Duration { seconds: [Long], nanos: 370000000 },
+    languageCode: 'en-us'
+  }
+}
+{
+  alternatives: [
+    SpeechRecognitionAlternative {
+      words: [],
+      transcript: ' Words Cheat and fit',
+      confidence: 0.7940934896469116
+    }
+  ]
+}
+{
+  alternative_0: SpeechRecognitionAlternative {
+    words: [],
+    transcript: ' Words Cheat and fit',
+    confidence: 0.7940934896469116
+  }
+}
+{
+  result: SpeechRecognitionResult {
+    alternatives: [ [SpeechRecognitionAlternative] ],
+    resultEndTime: Duration { seconds: [Long], nanos: 820000000 },
+    languageCode: 'en-us'
+  }
+}
+{
+  alternatives: [
+    SpeechRecognitionAlternative {
+      words: [],
+      transcript: ' I think they have different vowel sounds',
+      confidence: 0.9670877456665039
+    }
+  ]
+}
+{
+  alternative_0: SpeechRecognitionAlternative {
+    words: [],
+    transcript: ' I think they have different vowel sounds',
+    confidence: 0.9670877456665039
+  }
+}
+{
+  result: SpeechRecognitionResult {
+    alternatives: [ [SpeechRecognitionAlternative] ],
+    resultEndTime: Duration { seconds: [Long], nanos: 400000000 },
+    languageCode: 'en-us'
+  }
+}
+{
+  alternatives: [
+    SpeechRecognitionAlternative {
+      words: [],
+      transcript: ' correct the word feet has an e sound while the word fit has an issue sound',
+      confidence: 0.8632880449295044
+    }
+  ]
+}
+{
+  alternative_0: SpeechRecognitionAlternative {
+    words: [],
+    transcript: ' correct the word feet has an e sound while the word fit has an issue sound',
+    confidence: 0.8632880449295044
+  }
+}
+{
+  result: SpeechRecognitionResult {
+    alternatives: [ [SpeechRecognitionAlternative] ],
+    resultEndTime: Duration { seconds: [Long], nanos: 610000000 },
+    languageCode: 'en-us'
+  }
+}
+{
+  alternatives: [
+    SpeechRecognitionAlternative {
+      words: [],
+      transcript: " that's what I thought and it tips were making those vowels sound different",
+      confidence: 0.916563093662262
+    }
+  ]
+}
+{
+  alternative_0: SpeechRecognitionAlternative {
+    words: [],
+    transcript: " that's what I thought and it tips were making those vowels sound different",
+    confidence: 0.916563093662262
+  }
+}
+{
+  result: SpeechRecognitionResult {
+    alternatives: [ [SpeechRecognitionAlternative] ],
+    resultEndTime: Duration { seconds: [Long], nanos: 910000000 },
+    languageCode: 'en-us'
+  }
+}
+{
+  alternatives: [
+    SpeechRecognitionAlternative {
+      words: [],
+      transcript: ' one useful thing to focus on is muscle tension',
+      confidence: 0.9735667705535889
+    }
+  ]
+}
+{
+  alternative_0: SpeechRecognitionAlternative {
+    words: [],
+    transcript: ' one useful thing to focus on is muscle tension',
+    confidence: 0.9735667705535889
+  }
+}
+{
+  result: SpeechRecognitionResult {
+    alternatives: [ [SpeechRecognitionAlternative] ],
+    resultEndTime: Duration { seconds: [Long], nanos: 360000000 },
+    languageCode: 'en-us'
+  }
+}
+{
+  alternatives: [
+    SpeechRecognitionAlternative {
+      words: [],
+      transcript: ' interesting what do you mean exactly',
+      confidence: 0.9779357314109802
+    }
+  ]
+}
+{
+  alternative_0: SpeechRecognitionAlternative {
+    words: [],
+    transcript: ' interesting what do you mean exactly',
+    confidence: 0.9779357314109802
+  }
+}
+{
+  result: SpeechRecognitionResult {
+    alternatives: [ [SpeechRecognitionAlternative] ],
+    resultEndTime: Duration { seconds: [Long], nanos: 950000000 },
+    languageCode: 'en-us'
+  }
+}
+{
+  alternatives: [
+    SpeechRecognitionAlternative {
+      words: [],
+      transcript: ' for it there relaxed',
+      confidence: 0.8134734630584717
+    }
+  ]
+}
+{
+  alternative_0: SpeechRecognitionAlternative {
+    words: [],
+    transcript: ' for it there relaxed',
+    confidence: 0.8134734630584717
+  }
+}
+{
+  result: SpeechRecognitionResult {
+    alternatives: [ [SpeechRecognitionAlternative] ],
+    resultEndTime: Duration { seconds: [Long], nanos: 930000000 },
+    languageCode: 'en-us'
+  }
+}
+{
+  alternatives: [
+    SpeechRecognitionAlternative {
+      words: [],
+      transcript: " I didn't know with that I'll try that when I practice",
+      confidence: 0.8814058303833008
+    }
+  ]
+}
+{
+  alternative_0: SpeechRecognitionAlternative {
+    words: [],
+    transcript: " I didn't know with that I'll try that when I practice",
+    confidence: 0.8814058303833008
+  }
+}
+Transcription: okay I have a pronunciation quiz for you
+ I'm ready what is it
+ I'm ready what is it
+ what's the diff
+ Words Cheat and fit
+ I think they have different vowel sounds
+ correct the word feet has an e sound while the word fit has an issue sound
+ that's what I thought and it tips were making those vowels sound different
+ one useful thing to focus on is muscle tension
+ interesting what do you mean exactly
+ for it there relaxed
+ I didn't know with that I'll try that when I practice

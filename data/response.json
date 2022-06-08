@@ -1,0 +1,1277 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "Okay. I have a pronunciation quiz for you.",
+          "confidence": 0.7731554508209229,
+          "words": [
+            {
+              "startTime": { "seconds": "2", "nanos": 800000000 },
+              "endTime": { "seconds": "3", "nanos": 500000000 },
+              "word": "Okay.",
+              "confidence": 0.6129787564277649
+            },
+            {
+              "startTime": { "seconds": "3", "nanos": 500000000 },
+              "endTime": { "seconds": "3", "nanos": 800000000 },
+              "word": "I",
+              "confidence": 0.8375823497772217
+            },
+            {
+              "startTime": { "seconds": "3", "nanos": 800000000 },
+              "endTime": { "seconds": "4", "nanos": 200000000 },
+              "word": "have",
+              "confidence": 0.8375823497772217
+            },
+            {
+              "startTime": { "seconds": "4", "nanos": 200000000 },
+              "endTime": { "seconds": "4", "nanos": 200000000 },
+              "word": "a",
+              "confidence": 0.8375823497772217
+            },
+            {
+              "startTime": { "seconds": "4", "nanos": 200000000 },
+              "endTime": { "seconds": "5", "nanos": 300000000 },
+              "word": "pronunciation",
+              "confidence": 0.8375823497772217
+            },
+            {
+              "startTime": { "seconds": "5", "nanos": 300000000 },
+              "endTime": { "seconds": "5", "nanos": 600000000 },
+              "word": "quiz",
+              "confidence": 0.6236358284950256
+            },
+            {
+              "startTime": { "seconds": "5", "nanos": 600000000 },
+              "endTime": { "seconds": "5", "nanos": 900000000 },
+              "word": "for",
+              "confidence": 0.7607168555259705
+            },
+            {
+              "startTime": { "seconds": "5", "nanos": 900000000 },
+              "endTime": { "seconds": "6", "nanos": 100000000 },
+              "word": "you.",
+              "confidence": 0.8375823497772217
+            }
+          ]
+        }
+      ],
+      "resultEndTime": { "seconds": "6", "nanos": 700000000 },
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " On the radio. What is it?",
+          "confidence": 0.7668667435646057,
+          "words": [
+            {
+              "startTime": { "seconds": "12", "nanos": 800000000 },
+              "endTime": { "seconds": "13", "nanos": 300000000 },
+              "word": "On",
+              "confidence": 0.5412185788154602
+            },
+            {
+              "startTime": { "seconds": "13", "nanos": 300000000 },
+              "endTime": { "seconds": "13", "nanos": 400000000 },
+              "word": "the",
+              "confidence": 0.8348577618598938
+            },
+            {
+              "startTime": { "seconds": "13", "nanos": 400000000 },
+              "endTime": { "seconds": "13", "nanos": 800000000 },
+              "word": "radio.",
+              "confidence": 0.74455326795578
+            },
+            {
+              "startTime": { "seconds": "13", "nanos": 900000000 },
+              "endTime": { "seconds": "14", "nanos": 500000000 },
+              "word": "What",
+              "confidence": 0.8375823497772217
+            },
+            {
+              "startTime": { "seconds": "14", "nanos": 500000000 },
+              "endTime": { "seconds": "14", "nanos": 800000000 },
+              "word": "is",
+              "confidence": 0.8375823497772217
+            },
+            {
+              "startTime": { "seconds": "14", "nanos": 800000000 },
+              "endTime": { "seconds": "15" },
+              "word": "it?",
+              "confidence": 0.805406391620636
+            }
+          ]
+        }
+      ],
+      "resultEndTime": { "seconds": "15", "nanos": 490000000 },
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " What different pronunciation of the word feet and fit?",
+          "confidence": 0.6184311509132385,
+          "words": [
+            {
+              "startTime": { "seconds": "20", "nanos": 900000000 },
+              "endTime": { "seconds": "21", "nanos": 600000000 },
+              "word": "What",
+              "confidence": 0.5158120393753052
+            },
+            {
+              "startTime": { "seconds": "21", "nanos": 600000000 },
+              "endTime": { "seconds": "22", "nanos": 500000000 },
+              "word": "different",
+              "confidence": 0.5225704312324524
+            },
+            {
+              "startTime": { "seconds": "22", "nanos": 500000000 },
+              "endTime": { "seconds": "23", "nanos": 600000000 },
+              "word": "pronunciation",
+              "confidence": 0.6055890321731567
+            },
+            {
+              "startTime": { "seconds": "23", "nanos": 600000000 },
+              "endTime": { "seconds": "23", "nanos": 800000000 },
+              "word": "of",
+              "confidence": 0.8375823497772217
+            },
+            {
+              "startTime": { "seconds": "23", "nanos": 800000000 },
+              "endTime": { "seconds": "24" },
+              "word": "the",
+              "confidence": 0.8375823497772217
+            },
+            {
+              "startTime": { "seconds": "24" },
+              "endTime": { "seconds": "24", "nanos": 200000000 },
+              "word": "word",
+              "confidence": 0.5510492920875549
+            },
+            {
+              "startTime": { "seconds": "24", "nanos": 200000000 },
+              "endTime": { "seconds": "24", "nanos": 900000000 },
+              "word": "feet",
+              "confidence": 0.5365781784057617
+            },
+            {
+              "startTime": { "seconds": "24", "nanos": 900000000 },
+              "endTime": { "seconds": "25", "nanos": 400000000 },
+              "word": "and",
+              "confidence": 0.6109818816184998
+            },
+            {
+              "startTime": { "seconds": "25", "nanos": 400000000 },
+              "endTime": { "seconds": "25", "nanos": 600000000 },
+              "word": "fit?",
+              "confidence": 0.5481342673301697
+            }
+          ]
+        }
+      ],
+      "resultEndTime": { "seconds": "26", "nanos": 270000000 },
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " I see they have different bold films.",
+          "confidence": 0.6078774333000183,
+          "words": [
+            {
+              "startTime": { "seconds": "29", "nanos": 700000000 },
+              "endTime": { "seconds": "30" },
+              "word": "I",
+              "confidence": 0.5346495509147644
+            },
+            {
+              "startTime": { "seconds": "30" },
+              "endTime": { "seconds": "30", "nanos": 300000000 },
+              "word": "see",
+              "confidence": 0.5788463354110718
+            },
+            {
+              "startTime": { "seconds": "30", "nanos": 300000000 },
+              "endTime": { "seconds": "30", "nanos": 800000000 },
+              "word": "they",
+              "confidence": 0.6215639710426331
+            },
+            {
+              "startTime": { "seconds": "30", "nanos": 800000000 },
+              "endTime": { "seconds": "31" },
+              "word": "have",
+              "confidence": 0.6263442635536194
+            },
+            {
+              "startTime": { "seconds": "31" },
+              "endTime": { "seconds": "31", "nanos": 500000000 },
+              "word": "different",
+              "confidence": 0.6085854172706604
+            },
+            {
+              "startTime": { "seconds": "31", "nanos": 500000000 },
+              "endTime": { "seconds": "32", "nanos": 800000000 },
+              "word": "bold",
+              "confidence": 0.6111095547676086
+            },
+            {
+              "startTime": { "seconds": "32", "nanos": 800000000 },
+              "endTime": { "seconds": "33", "nanos": 100000000 },
+              "word": "films.",
+              "confidence": 0.6740431785583496
+            }
+          ]
+        }
+      ],
+      "resultEndTime": { "seconds": "33", "nanos": 670000000 },
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " Correct. The word feet has any sound. Well, the word fit hasn't found.",
+          "confidence": 0.6403265595436096,
+          "words": [
+            {
+              "startTime": { "seconds": "38", "nanos": 400000000 },
+              "endTime": { "seconds": "39", "nanos": 500000000 },
+              "word": "Correct.",
+              "confidence": 0.5515071749687195
+            },
+            {
+              "startTime": { "seconds": "39", "nanos": 500000000 },
+              "endTime": { "seconds": "39", "nanos": 900000000 },
+              "word": "The",
+              "confidence": 0.5821035504341125
+            },
+            {
+              "startTime": { "seconds": "39", "nanos": 900000000 },
+              "endTime": { "seconds": "40", "nanos": 100000000 },
+              "word": "word",
+              "confidence": 0.7604126930236816
+            },
+            {
+              "startTime": { "seconds": "40", "nanos": 100000000 },
+              "endTime": { "seconds": "40", "nanos": 700000000 },
+              "word": "feet",
+              "confidence": 0.6103475689888
+            },
+            {
+              "startTime": { "seconds": "40", "nanos": 700000000 },
+              "endTime": { "seconds": "41", "nanos": 100000000 },
+              "word": "has",
+              "confidence": 0.6117422580718994
+            },
+            {
+              "startTime": { "seconds": "41", "nanos": 100000000 },
+              "endTime": { "seconds": "41", "nanos": 400000000 },
+              "word": "any",
+              "confidence": 0.650423526763916
+            },
+            {
+              "startTime": { "seconds": "41", "nanos": 400000000 },
+              "endTime": { "seconds": "41", "nanos": 900000000 },
+              "word": "sound.",
+              "confidence": 0.6504225134849548
+            },
+            {
+              "startTime": { "seconds": "41", "nanos": 900000000 },
+              "endTime": { "seconds": "42", "nanos": 600000000 },
+              "word": "Well,",
+              "confidence": 0.5433523058891296
+            },
+            {
+              "startTime": { "seconds": "42", "nanos": 600000000 },
+              "endTime": { "seconds": "42", "nanos": 700000000 },
+              "word": "the",
+              "confidence": 0.8375823497772217
+            },
+            {
+              "startTime": { "seconds": "42", "nanos": 700000000 },
+              "endTime": { "seconds": "42", "nanos": 900000000 },
+              "word": "word",
+              "confidence": 0.8375823497772217
+            },
+            {
+              "startTime": { "seconds": "42", "nanos": 900000000 },
+              "endTime": { "seconds": "43", "nanos": 300000000 },
+              "word": "fit",
+              "confidence": 0.6527026891708374
+            },
+            {
+              "startTime": { "seconds": "43", "nanos": 300000000 },
+              "endTime": { "seconds": "43", "nanos": 900000000 },
+              "word": "hasn't",
+              "confidence": 0.5158120393753052
+            },
+            {
+              "startTime": { "seconds": "43", "nanos": 900000000 },
+              "endTime": { "seconds": "44", "nanos": 600000000 },
+              "word": "found.",
+              "confidence": 0.5202547311782837
+            }
+          ]
+        }
+      ],
+      "resultEndTime": { "seconds": "45", "nanos": 380000000 },
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " That's what I saw it and tips for making those bowls sounds different.",
+          "confidence": 0.6689287424087524,
+          "words": [
+            {
+              "startTime": { "seconds": "48", "nanos": 500000000 },
+              "endTime": { "seconds": "49", "nanos": 300000000 },
+              "word": "That's",
+              "confidence": 0.5349980592727661
+            },
+            {
+              "startTime": { "seconds": "49", "nanos": 300000000 },
+              "endTime": { "seconds": "49", "nanos": 600000000 },
+              "word": "what",
+              "confidence": 0.6220647096633911
+            },
+            {
+              "startTime": { "seconds": "49", "nanos": 600000000 },
+              "endTime": { "seconds": "49", "nanos": 700000000 },
+              "word": "I",
+              "confidence": 0.8375823497772217
+            },
+            {
+              "startTime": { "seconds": "49", "nanos": 700000000 },
+              "endTime": { "seconds": "50" },
+              "word": "saw",
+              "confidence": 0.6013045907020569
+            },
+            {
+              "startTime": { "seconds": "50" },
+              "endTime": { "seconds": "50", "nanos": 200000000 },
+              "word": "it",
+              "confidence": 0.5976532697677612
+            },
+            {
+              "startTime": { "seconds": "50", "nanos": 200000000 },
+              "endTime": { "seconds": "50", "nanos": 900000000 },
+              "word": "and",
+              "confidence": 0.6001894474029541
+            },
+            {
+              "startTime": { "seconds": "50", "nanos": 900000000 },
+              "endTime": { "seconds": "51", "nanos": 500000000 },
+              "word": "tips",
+              "confidence": 0.6251581311225891
+            },
+            {
+              "startTime": { "seconds": "51", "nanos": 500000000 },
+              "endTime": { "seconds": "51", "nanos": 900000000 },
+              "word": "for",
+              "confidence": 0.8375823497772217
+            },
+            {
+              "startTime": { "seconds": "51", "nanos": 900000000 },
+              "endTime": { "seconds": "52", "nanos": 400000000 },
+              "word": "making",
+              "confidence": 0.8375823497772217
+            },
+            {
+              "startTime": { "seconds": "52", "nanos": 400000000 },
+              "endTime": { "seconds": "53", "nanos": 300000000 },
+              "word": "those",
+              "confidence": 0.8375823497772217
+            },
+            {
+              "startTime": { "seconds": "53", "nanos": 300000000 },
+              "endTime": { "seconds": "55" },
+              "word": "bowls",
+              "confidence": 0.54600989818573
+            },
+            {
+              "startTime": { "seconds": "55" },
+              "endTime": { "seconds": "55", "nanos": 700000000 },
+              "word": "sounds",
+              "confidence": 0.5730644464492798
+            },
+            {
+              "startTime": { "seconds": "55", "nanos": 700000000 },
+              "endTime": { "seconds": "55", "nanos": 900000000 },
+              "word": "different.",
+              "confidence": 0.6453005075454712
+            }
+          ]
+        }
+      ],
+      "resultEndTime": { "seconds": "56", "nanos": 530000000 },
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " Why do you feel thing to focus on is muscle tension?",
+          "confidence": 0.6617587804794312,
+          "words": [
+            {
+              "startTime": { "seconds": "61", "nanos": 700000000 },
+              "endTime": { "seconds": "62", "nanos": 200000000 },
+              "word": "Why",
+              "confidence": 0.5401620864868164
+            },
+            {
+              "startTime": { "seconds": "62", "nanos": 200000000 },
+              "endTime": { "seconds": "62", "nanos": 300000000 },
+              "word": "do",
+              "confidence": 0.5499034523963928
+            },
+            {
+              "startTime": { "seconds": "62", "nanos": 300000000 },
+              "endTime": { "seconds": "62", "nanos": 400000000 },
+              "word": "you",
+              "confidence": 0.8361662030220032
+            },
+            {
+              "startTime": { "seconds": "62", "nanos": 400000000 },
+              "endTime": { "seconds": "62", "nanos": 500000000 },
+              "word": "feel",
+              "confidence": 0.5417367219924927
+            },
+            {
+              "startTime": { "seconds": "62", "nanos": 500000000 },
+              "endTime": { "seconds": "62", "nanos": 900000000 },
+              "word": "thing",
+              "confidence": 0.5261070132255554
+            },
+            {
+              "startTime": { "seconds": "62", "nanos": 900000000 },
+              "endTime": { "seconds": "63", "nanos": 200000000 },
+              "word": "to",
+              "confidence": 0.7601544260978699
+            },
+            {
+              "startTime": { "seconds": "63", "nanos": 200000000 },
+              "endTime": { "seconds": "63", "nanos": 600000000 },
+              "word": "focus",
+              "confidence": 0.5923833847045898
+            },
+            {
+              "startTime": { "seconds": "63", "nanos": 600000000 },
+              "endTime": { "seconds": "63", "nanos": 900000000 },
+              "word": "on",
+              "confidence": 0.7602992653846741
+            },
+            {
+              "startTime": { "seconds": "63", "nanos": 900000000 },
+              "endTime": { "seconds": "64", "nanos": 100000000 },
+              "word": "is",
+              "confidence": 0.6634586453437805
+            },
+            {
+              "startTime": { "seconds": "64", "nanos": 100000000 },
+              "endTime": { "seconds": "64", "nanos": 700000000 },
+              "word": "muscle",
+              "confidence": 0.6713926196098328
+            },
+            {
+              "startTime": { "seconds": "64", "nanos": 700000000 },
+              "endTime": { "seconds": "65", "nanos": 100000000 },
+              "word": "tension?",
+              "confidence": 0.8375823497772217
+            }
+          ]
+        }
+      ],
+      "resultEndTime": { "seconds": "65", "nanos": 590000000 },
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " Interesting. What do you mean exactly?",
+          "confidence": 0.7563137412071228,
+          "words": [
+            {
+              "startTime": { "seconds": "67", "nanos": 800000000 },
+              "endTime": { "seconds": "68", "nanos": 700000000 },
+              "word": "Interesting.",
+              "confidence": 0.6160389184951782
+            },
+            {
+              "startTime": { "seconds": "68", "nanos": 700000000 },
+              "endTime": { "seconds": "69", "nanos": 900000000 },
+              "word": "What",
+              "confidence": 0.8024442195892334
+            },
+            {
+              "startTime": { "seconds": "69", "nanos": 900000000 },
+              "endTime": { "seconds": "70" },
+              "word": "do",
+              "confidence": 0.8375823497772217
+            },
+            {
+              "startTime": { "seconds": "70" },
+              "endTime": { "seconds": "70", "nanos": 100000000 },
+              "word": "you",
+              "confidence": 0.8375823497772217
+            },
+            {
+              "startTime": { "seconds": "70", "nanos": 100000000 },
+              "endTime": { "seconds": "70", "nanos": 300000000 },
+              "word": "mean",
+              "confidence": 0.8309701085090637
+            },
+            {
+              "startTime": { "seconds": "70", "nanos": 300000000 },
+              "endTime": { "seconds": "70", "nanos": 600000000 },
+              "word": "exactly?",
+              "confidence": 0.6132645606994629
+            }
+          ]
+        }
+      ],
+      "resultEndTime": { "seconds": "71", "nanos": 250000000 },
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " For their relaxed.",
+          "confidence": 0.627234160900116,
+          "words": [
+            {
+              "startTime": { "seconds": "76" },
+              "endTime": { "seconds": "80", "nanos": 900000000 },
+              "word": "For",
+              "confidence": 0.575974702835083
+            },
+            {
+              "startTime": { "seconds": "80", "nanos": 900000000 },
+              "endTime": { "seconds": "81", "nanos": 700000000 },
+              "word": "their",
+              "confidence": 0.533426821231842
+            },
+            {
+              "startTime": { "seconds": "81", "nanos": 700000000 },
+              "endTime": { "seconds": "82", "nanos": 400000000 },
+              "word": "relaxed.",
+              "confidence": 0.7723008990287781
+            }
+          ]
+        }
+      ],
+      "resultEndTime": { "seconds": "82", "nanos": 830000000 },
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " Are you doing now? I will try to put a front tooth.",
+          "confidence": 0.6000520586967468,
+          "words": [
+            {
+              "startTime": { "seconds": "86", "nanos": 700000000 },
+              "endTime": { "seconds": "87", "nanos": 100000000 },
+              "word": "Are",
+              "confidence": 0.5400161147117615
+            },
+            {
+              "startTime": { "seconds": "87", "nanos": 100000000 },
+              "endTime": { "seconds": "87", "nanos": 200000000 },
+              "word": "you",
+              "confidence": 0.7284759283065796
+            },
+            {
+              "startTime": { "seconds": "87", "nanos": 200000000 },
+              "endTime": { "seconds": "87", "nanos": 400000000 },
+              "word": "doing",
+              "confidence": 0.6499070525169373
+            },
+            {
+              "startTime": { "seconds": "87", "nanos": 400000000 },
+              "endTime": { "seconds": "87", "nanos": 600000000 },
+              "word": "now?",
+              "confidence": 0.5696221590042114
+            },
+            {
+              "startTime": { "seconds": "87", "nanos": 600000000 },
+              "endTime": { "seconds": "88", "nanos": 900000000 },
+              "word": "I",
+              "confidence": 0.5266067981719971
+            },
+            {
+              "startTime": { "seconds": "88", "nanos": 900000000 },
+              "endTime": { "seconds": "89", "nanos": 200000000 },
+              "word": "will",
+              "confidence": 0.5267251133918762
+            },
+            {
+              "startTime": { "seconds": "89", "nanos": 200000000 },
+              "endTime": { "seconds": "89", "nanos": 600000000 },
+              "word": "try",
+              "confidence": 0.6316345930099487
+            },
+            {
+              "startTime": { "seconds": "89", "nanos": 600000000 },
+              "endTime": { "seconds": "90", "nanos": 400000000 },
+              "word": "to",
+              "confidence": 0.5714038610458374
+            },
+            {
+              "startTime": { "seconds": "90", "nanos": 400000000 },
+              "endTime": { "seconds": "90", "nanos": 500000000 },
+              "word": "put",
+              "confidence": 0.5975027680397034
+            },
+            {
+              "startTime": { "seconds": "90", "nanos": 500000000 },
+              "endTime": { "seconds": "90", "nanos": 600000000 },
+              "word": "a",
+              "confidence": 0.6128175854682922
+            },
+            {
+              "startTime": { "seconds": "90", "nanos": 600000000 },
+              "endTime": { "seconds": "91", "nanos": 200000000 },
+              "word": "front",
+              "confidence": 0.6482268571853638
+            },
+            {
+              "startTime": { "seconds": "91", "nanos": 200000000 },
+              "endTime": { "seconds": "91", "nanos": 200000000 },
+              "word": "tooth.",
+              "confidence": 0.5976853370666504
+            }
+          ]
+        }
+      ],
+      "resultEndTime": { "seconds": "91", "nanos": 550000000 },
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "words": [
+            {
+              "startTime": { "seconds": "2", "nanos": 800000000 },
+              "endTime": { "seconds": "3", "nanos": 500000000 },
+              "word": "Okay.",
+              "confidence": 0.6129787564277649,
+              "speakerTag": 3
+            },
+            {
+              "startTime": { "seconds": "3", "nanos": 500000000 },
+              "endTime": { "seconds": "3", "nanos": 800000000 },
+              "word": "I",
+              "confidence": 0.8375823497772217,
+              "speakerTag": 3
+            },
+            {
+              "startTime": { "seconds": "3", "nanos": 800000000 },
+              "endTime": { "seconds": "4", "nanos": 200000000 },
+              "word": "have",
+              "confidence": 0.8375823497772217,
+              "speakerTag": 3
+            },
+            {
+              "startTime": { "seconds": "4", "nanos": 200000000 },
+              "endTime": { "seconds": "4", "nanos": 200000000 },
+              "word": "a",
+              "confidence": 0.8375823497772217,
+              "speakerTag": 3
+            },
+            {
+              "startTime": { "seconds": "4", "nanos": 200000000 },
+              "endTime": { "seconds": "5", "nanos": 300000000 },
+              "word": "pronunciation",
+              "confidence": 0.8375823497772217,
+              "speakerTag": 3
+            },
+            {
+              "startTime": { "seconds": "5", "nanos": 300000000 },
+              "endTime": { "seconds": "5", "nanos": 600000000 },
+              "word": "quiz",
+              "confidence": 0.6236358284950256,
+              "speakerTag": 3
+            },
+            {
+              "startTime": { "seconds": "5", "nanos": 600000000 },
+              "endTime": { "seconds": "5", "nanos": 900000000 },
+              "word": "for",
+              "confidence": 0.7607168555259705,
+              "speakerTag": 3
+            },
+            {
+              "startTime": { "seconds": "5", "nanos": 900000000 },
+              "endTime": { "seconds": "6", "nanos": 100000000 },
+              "word": "you.",
+              "confidence": 0.8375823497772217,
+              "speakerTag": 3
+            },
+            {
+              "startTime": { "seconds": "12", "nanos": 800000000 },
+              "endTime": { "seconds": "13", "nanos": 300000000 },
+              "word": "On",
+              "confidence": 0.5412185788154602,
+              "speakerTag": 1
+            },
+            {
+              "startTime": { "seconds": "13", "nanos": 300000000 },
+              "endTime": { "seconds": "13", "nanos": 400000000 },
+              "word": "the",
+              "confidence": 0.8348577618598938,
+              "speakerTag": 1
+            },
+            {
+              "startTime": { "seconds": "13", "nanos": 400000000 },
+              "endTime": { "seconds": "13", "nanos": 800000000 },
+              "word": "radio.",
+              "confidence": 0.74455326795578,
+              "speakerTag": 1
+            },
+            {
+              "startTime": { "seconds": "13", "nanos": 900000000 },
+              "endTime": { "seconds": "14", "nanos": 500000000 },
+              "word": "What",
+              "confidence": 0.8375823497772217,
+              "speakerTag": 1
+            },
+            {
+              "startTime": { "seconds": "14", "nanos": 500000000 },
+              "endTime": { "seconds": "14", "nanos": 800000000 },
+              "word": "is",
+              "confidence": 0.8375823497772217,
+              "speakerTag": 1
+            },
+            {
+              "startTime": { "seconds": "14", "nanos": 800000000 },
+              "endTime": { "seconds": "15" },
+              "word": "it?",
+              "confidence": 0.805406391620636,
+              "speakerTag": 1
+            },
+            {
+              "startTime": { "seconds": "20", "nanos": 900000000 },
+              "endTime": { "seconds": "21", "nanos": 600000000 },
+              "word": "What",
+              "confidence": 0.5158120393753052,
+              "speakerTag": 3
+            },
+            {
+              "startTime": { "seconds": "21", "nanos": 600000000 },
+              "endTime": { "seconds": "22", "nanos": 500000000 },
+              "word": "different",
+              "confidence": 0.5225704312324524,
+              "speakerTag": 3
+            },
+            {
+              "startTime": { "seconds": "22", "nanos": 500000000 },
+              "endTime": { "seconds": "23", "nanos": 600000000 },
+              "word": "pronunciation",
+              "confidence": 0.6055890321731567,
+              "speakerTag": 3
+            },
+            {
+              "startTime": { "seconds": "23", "nanos": 600000000 },
+              "endTime": { "seconds": "23", "nanos": 800000000 },
+              "word": "of",
+              "confidence": 0.8375823497772217,
+              "speakerTag": 3
+            },
+            {
+              "startTime": { "seconds": "23", "nanos": 800000000 },
+              "endTime": { "seconds": "24" },
+              "word": "the",
+              "confidence": 0.8375823497772217,
+              "speakerTag": 3
+            },
+            {
+              "startTime": { "seconds": "24" },
+              "endTime": { "seconds": "24", "nanos": 200000000 },
+              "word": "word",
+              "confidence": 0.5510492920875549,
+              "speakerTag": 3
+            },
+            {
+              "startTime": { "seconds": "24", "nanos": 200000000 },
+              "endTime": { "seconds": "24", "nanos": 900000000 },
+              "word": "feet",
+              "confidence": 0.5365781784057617,
+              "speakerTag": 3
+            },
+            {
+              "startTime": { "seconds": "24", "nanos": 900000000 },
+              "endTime": { "seconds": "25", "nanos": 400000000 },
+              "word": "and",
+              "confidence": 0.6109818816184998,
+              "speakerTag": 3
+            },
+            {
+              "startTime": { "seconds": "25", "nanos": 400000000 },
+              "endTime": { "seconds": "25", "nanos": 600000000 },
+              "word": "fit?",
+              "confidence": 0.5481342673301697,
+              "speakerTag": 3
+            },
+            {
+              "startTime": { "seconds": "29", "nanos": 700000000 },
+              "endTime": { "seconds": "30" },
+              "word": "I",
+              "confidence": 0.5346495509147644,
+              "speakerTag": 1
+            },
+            {
+              "startTime": { "seconds": "30" },
+              "endTime": { "seconds": "30", "nanos": 300000000 },
+              "word": "see",
+              "confidence": 0.5788463354110718,
+              "speakerTag": 1
+            },
+            {
+              "startTime": { "seconds": "30", "nanos": 300000000 },
+              "endTime": { "seconds": "30", "nanos": 800000000 },
+              "word": "they",
+              "confidence": 0.6215639710426331,
+              "speakerTag": 1
+            },
+            {
+              "startTime": { "seconds": "30", "nanos": 800000000 },
+              "endTime": { "seconds": "31" },
+              "word": "have",
+              "confidence": 0.6263442635536194,
+              "speakerTag": 1
+            },
+            {
+              "startTime": { "seconds": "31" },
+              "endTime": { "seconds": "31", "nanos": 500000000 },
+              "word": "different",
+              "confidence": 0.6085854172706604,
+              "speakerTag": 1
+            },
+            {
+              "startTime": { "seconds": "31", "nanos": 500000000 },
+              "endTime": { "seconds": "32", "nanos": 800000000 },
+              "word": "bold",
+              "confidence": 0.6111095547676086,
+              "speakerTag": 1
+            },
+            {
+              "startTime": { "seconds": "32", "nanos": 800000000 },
+              "endTime": { "seconds": "33", "nanos": 100000000 },
+              "word": "films.",
+              "confidence": 0.6740431785583496,
+              "speakerTag": 1
+            },
+            {
+              "startTime": { "seconds": "38", "nanos": 400000000 },
+              "endTime": { "seconds": "39", "nanos": 500000000 },
+              "word": "Correct.",
+              "confidence": 0.5515071749687195,
+              "speakerTag": 3
+            },
+            {
+              "startTime": { "seconds": "39", "nanos": 500000000 },
+              "endTime": { "seconds": "39", "nanos": 900000000 },
+              "word": "The",
+              "confidence": 0.5821035504341125,
+              "speakerTag": 3
+            },
+            {
+              "startTime": { "seconds": "39", "nanos": 900000000 },
+              "endTime": { "seconds": "40", "nanos": 100000000 },
+              "word": "word",
+              "confidence": 0.7604126930236816,
+              "speakerTag": 3
+            },
+            {
+              "startTime": { "seconds": "40", "nanos": 100000000 },
+              "endTime": { "seconds": "40", "nanos": 700000000 },
+              "word": "feet",
+              "confidence": 0.6103475689888,
+              "speakerTag": 3
+            },
+            {
+              "startTime": { "seconds": "40", "nanos": 700000000 },
+              "endTime": { "seconds": "41", "nanos": 100000000 },
+              "word": "has",
+              "confidence": 0.6117422580718994,
+              "speakerTag": 3
+            },
+            {
+              "startTime": { "seconds": "41", "nanos": 100000000 },
+              "endTime": { "seconds": "41", "nanos": 400000000 },
+              "word": "any",
+              "confidence": 0.650423526763916,
+              "speakerTag": 3
+            },
+            {
+              "startTime": { "seconds": "41", "nanos": 400000000 },
+              "endTime": { "seconds": "41", "nanos": 900000000 },
+              "word": "sound.",
+              "confidence": 0.6504225134849548,
+              "speakerTag": 3
+            },
+            {
+              "startTime": { "seconds": "41", "nanos": 900000000 },
+              "endTime": { "seconds": "42", "nanos": 600000000 },
+              "word": "Well,",
+              "confidence": 0.5433523058891296,
+              "speakerTag": 3
+            },
+            {
+              "startTime": { "seconds": "42", "nanos": 600000000 },
+              "endTime": { "seconds": "42", "nanos": 700000000 },
+              "word": "the",
+              "confidence": 0.8375823497772217,
+              "speakerTag": 3
+            },
+            {
+              "startTime": { "seconds": "42", "nanos": 700000000 },
+              "endTime": { "seconds": "42", "nanos": 900000000 },
+              "word": "word",
+              "confidence": 0.8375823497772217,
+              "speakerTag": 3
+            },
+            {
+              "startTime": { "seconds": "42", "nanos": 900000000 },
+              "endTime": { "seconds": "43", "nanos": 300000000 },
+              "word": "fit",
+              "confidence": 0.6527026891708374,
+              "speakerTag": 3
+            },
+            {
+              "startTime": { "seconds": "43", "nanos": 300000000 },
+              "endTime": { "seconds": "43", "nanos": 900000000 },
+              "word": "hasn't",
+              "confidence": 0.5158120393753052,
+              "speakerTag": 3
+            },
+            {
+              "startTime": { "seconds": "43", "nanos": 900000000 },
+              "endTime": { "seconds": "44", "nanos": 600000000 },
+              "word": "found.",
+              "confidence": 0.5202547311782837,
+              "speakerTag": 3
+            },
+            {
+              "startTime": { "seconds": "48", "nanos": 500000000 },
+              "endTime": { "seconds": "49", "nanos": 300000000 },
+              "word": "That's",
+              "confidence": 0.5349980592727661,
+              "speakerTag": 1
+            },
+            {
+              "startTime": { "seconds": "49", "nanos": 300000000 },
+              "endTime": { "seconds": "49", "nanos": 600000000 },
+              "word": "what",
+              "confidence": 0.6220647096633911,
+              "speakerTag": 1
+            },
+            {
+              "startTime": { "seconds": "49", "nanos": 600000000 },
+              "endTime": { "seconds": "49", "nanos": 700000000 },
+              "word": "I",
+              "confidence": 0.8375823497772217,
+              "speakerTag": 1
+            },
+            {
+              "startTime": { "seconds": "49", "nanos": 700000000 },
+              "endTime": { "seconds": "50" },
+              "word": "saw",
+              "confidence": 0.6013045907020569,
+              "speakerTag": 1
+            },
+            {
+              "startTime": { "seconds": "50" },
+              "endTime": { "seconds": "50", "nanos": 200000000 },
+              "word": "it",
+              "confidence": 0.5976532697677612,
+              "speakerTag": 1
+            },
+            {
+              "startTime": { "seconds": "50", "nanos": 200000000 },
+              "endTime": { "seconds": "50", "nanos": 900000000 },
+              "word": "and",
+              "confidence": 0.6001894474029541,
+              "speakerTag": 1
+            },
+            {
+              "startTime": { "seconds": "50", "nanos": 900000000 },
+              "endTime": { "seconds": "51", "nanos": 500000000 },
+              "word": "tips",
+              "confidence": 0.6251581311225891,
+              "speakerTag": 1
+            },
+            {
+              "startTime": { "seconds": "51", "nanos": 500000000 },
+              "endTime": { "seconds": "51", "nanos": 900000000 },
+              "word": "for",
+              "confidence": 0.8375823497772217,
+              "speakerTag": 1
+            },
+            {
+              "startTime": { "seconds": "51", "nanos": 900000000 },
+              "endTime": { "seconds": "52", "nanos": 400000000 },
+              "word": "making",
+              "confidence": 0.8375823497772217,
+              "speakerTag": 1
+            },
+            {
+              "startTime": { "seconds": "52", "nanos": 400000000 },
+              "endTime": { "seconds": "53", "nanos": 300000000 },
+              "word": "those",
+              "confidence": 0.8375823497772217,
+              "speakerTag": 1
+            },
+            {
+              "startTime": { "seconds": "53", "nanos": 300000000 },
+              "endTime": { "seconds": "55" },
+              "word": "bowls",
+              "confidence": 0.54600989818573,
+              "speakerTag": 1
+            },
+            {
+              "startTime": { "seconds": "55" },
+              "endTime": { "seconds": "55", "nanos": 700000000 },
+              "word": "sounds",
+              "confidence": 0.5730644464492798,
+              "speakerTag": 1
+            },
+            {
+              "startTime": { "seconds": "55", "nanos": 700000000 },
+              "endTime": { "seconds": "55", "nanos": 900000000 },
+              "word": "different.",
+              "confidence": 0.6453005075454712,
+              "speakerTag": 1
+            },
+            {
+              "startTime": { "seconds": "61", "nanos": 700000000 },
+              "endTime": { "seconds": "62", "nanos": 200000000 },
+              "word": "Why",
+              "confidence": 0.5401620864868164,
+              "speakerTag": 3
+            },
+            {
+              "startTime": { "seconds": "62", "nanos": 200000000 },
+              "endTime": { "seconds": "62", "nanos": 300000000 },
+              "word": "do",
+              "confidence": 0.5499034523963928,
+              "speakerTag": 3
+            },
+            {
+              "startTime": { "seconds": "62", "nanos": 300000000 },
+              "endTime": { "seconds": "62", "nanos": 400000000 },
+              "word": "you",
+              "confidence": 0.8361662030220032,
+              "speakerTag": 3
+            },
+            {
+              "startTime": { "seconds": "62", "nanos": 400000000 },
+              "endTime": { "seconds": "62", "nanos": 500000000 },
+              "word": "feel",
+              "confidence": 0.5417367219924927,
+              "speakerTag": 3
+            },
+            {
+              "startTime": { "seconds": "62", "nanos": 500000000 },
+              "endTime": { "seconds": "62", "nanos": 900000000 },
+              "word": "thing",
+              "confidence": 0.5261070132255554,
+              "speakerTag": 3
+            },
+            {
+              "startTime": { "seconds": "62", "nanos": 900000000 },
+              "endTime": { "seconds": "63", "nanos": 200000000 },
+              "word": "to",
+              "confidence": 0.7601544260978699,
+              "speakerTag": 3
+            },
+            {
+              "startTime": { "seconds": "63", "nanos": 200000000 },
+              "endTime": { "seconds": "63", "nanos": 600000000 },
+              "word": "focus",
+              "confidence": 0.5923833847045898,
+              "speakerTag": 3
+            },
+            {
+              "startTime": { "seconds": "63", "nanos": 600000000 },
+              "endTime": { "seconds": "63", "nanos": 900000000 },
+              "word": "on",
+              "confidence": 0.7602992653846741,
+              "speakerTag": 3
+            },
+            {
+              "startTime": { "seconds": "63", "nanos": 900000000 },
+              "endTime": { "seconds": "64", "nanos": 100000000 },
+              "word": "is",
+              "confidence": 0.6634586453437805,
+              "speakerTag": 3
+            },
+            {
+              "startTime": { "seconds": "64", "nanos": 100000000 },
+              "endTime": { "seconds": "64", "nanos": 700000000 },
+              "word": "muscle",
+              "confidence": 0.6713926196098328,
+              "speakerTag": 3
+            },
+            {
+              "startTime": { "seconds": "64", "nanos": 700000000 },
+              "endTime": { "seconds": "65", "nanos": 100000000 },
+              "word": "tension?",
+              "confidence": 0.8375823497772217,
+              "speakerTag": 1
+            },
+            {
+              "startTime": { "seconds": "67", "nanos": 800000000 },
+              "endTime": { "seconds": "68", "nanos": 700000000 },
+              "word": "Interesting.",
+              "confidence": 0.6160389184951782,
+              "speakerTag": 1
+            },
+            {
+              "startTime": { "seconds": "68", "nanos": 700000000 },
+              "endTime": { "seconds": "69", "nanos": 900000000 },
+              "word": "What",
+              "confidence": 0.8024442195892334,
+              "speakerTag": 1
+            },
+            {
+              "startTime": { "seconds": "69", "nanos": 900000000 },
+              "endTime": { "seconds": "70" },
+              "word": "do",
+              "confidence": 0.8375823497772217,
+              "speakerTag": 1
+            },
+            {
+              "startTime": { "seconds": "70" },
+              "endTime": { "seconds": "70", "nanos": 100000000 },
+              "word": "you",
+              "confidence": 0.8375823497772217,
+              "speakerTag": 1
+            },
+            {
+              "startTime": { "seconds": "70", "nanos": 100000000 },
+              "endTime": { "seconds": "70", "nanos": 300000000 },
+              "word": "mean",
+              "confidence": 0.8309701085090637,
+              "speakerTag": 1
+            },
+            {
+              "startTime": { "seconds": "70", "nanos": 300000000 },
+              "endTime": { "seconds": "70", "nanos": 600000000 },
+              "word": "exactly?",
+              "confidence": 0.6132645606994629,
+              "speakerTag": 3
+            },
+            {
+              "startTime": { "seconds": "76" },
+              "endTime": { "seconds": "80", "nanos": 900000000 },
+              "word": "For",
+              "confidence": 0.575974702835083,
+              "speakerTag": 3
+            },
+            {
+              "startTime": { "seconds": "80", "nanos": 900000000 },
+              "endTime": { "seconds": "81", "nanos": 700000000 },
+              "word": "their",
+              "confidence": 0.533426821231842,
+              "speakerTag": 3
+            },
+            {
+              "startTime": { "seconds": "81", "nanos": 700000000 },
+              "endTime": { "seconds": "82", "nanos": 400000000 },
+              "word": "relaxed.",
+              "confidence": 0.7723008990287781,
+              "speakerTag": 3
+            },
+            {
+              "startTime": { "seconds": "86", "nanos": 700000000 },
+              "endTime": { "seconds": "87", "nanos": 100000000 },
+              "word": "Are",
+              "confidence": 0.5400161147117615,
+              "speakerTag": 1
+            },
+            {
+              "startTime": { "seconds": "87", "nanos": 100000000 },
+              "endTime": { "seconds": "87", "nanos": 200000000 },
+              "word": "you",
+              "confidence": 0.7284759283065796,
+              "speakerTag": 1
+            },
+            {
+              "startTime": { "seconds": "87", "nanos": 200000000 },
+              "endTime": { "seconds": "87", "nanos": 400000000 },
+              "word": "doing",
+              "confidence": 0.6499070525169373,
+              "speakerTag": 1
+            },
+            {
+              "startTime": { "seconds": "87", "nanos": 400000000 },
+              "endTime": { "seconds": "87", "nanos": 600000000 },
+              "word": "now?",
+              "confidence": 0.5696221590042114,
+              "speakerTag": 1
+            },
+            {
+              "startTime": { "seconds": "87", "nanos": 600000000 },
+              "endTime": { "seconds": "88", "nanos": 900000000 },
+              "word": "I",
+              "confidence": 0.5266067981719971,
+              "speakerTag": 1
+            },
+            {
+              "startTime": { "seconds": "88", "nanos": 900000000 },
+              "endTime": { "seconds": "89", "nanos": 200000000 },
+              "word": "will",
+              "confidence": 0.5267251133918762,
+              "speakerTag": 1
+            },
+            {
+              "startTime": { "seconds": "89", "nanos": 200000000 },
+              "endTime": { "seconds": "89", "nanos": 600000000 },
+              "word": "try",
+              "confidence": 0.6316345930099487,
+              "speakerTag": 1
+            },
+            {
+              "startTime": { "seconds": "89", "nanos": 600000000 },
+              "endTime": { "seconds": "90", "nanos": 400000000 },
+              "word": "to",
+              "confidence": 0.5714038610458374,
+              "speakerTag": 1
+            },
+            {
+              "startTime": { "seconds": "90", "nanos": 400000000 },
+              "endTime": { "seconds": "90", "nanos": 500000000 },
+              "word": "put",
+              "confidence": 0.5975027680397034,
+              "speakerTag": 1
+            },
+            {
+              "startTime": { "seconds": "90", "nanos": 500000000 },
+              "endTime": { "seconds": "90", "nanos": 600000000 },
+              "word": "a",
+              "confidence": 0.6128175854682922,
+              "speakerTag": 1
+            },
+            {
+              "startTime": { "seconds": "90", "nanos": 600000000 },
+              "endTime": { "seconds": "91", "nanos": 200000000 },
+              "word": "front",
+              "confidence": 0.6482268571853638,
+              "speakerTag": 1
+            },
+            {
+              "startTime": { "seconds": "91", "nanos": 200000000 },
+              "endTime": { "seconds": "91", "nanos": 200000000 },
+              "word": "tooth.",
+              "confidence": 0.5976853370666504,
+              "speakerTag": 1
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "totalBilledTime": { "seconds": "105" }
+}

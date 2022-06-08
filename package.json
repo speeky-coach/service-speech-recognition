@@ -1,0 +1,28 @@
+{
+  "name": "axy-service-speech-recognition",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage --no-cache --detectOpenHandles",
+    "dev": "cross-env GOOGLE_APPLICATION_CREDENTIALS=./service-account.json nodemon"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^28.1.1",
+    "@types/supertest": "^2.0.12",
+    "@types/uuid-validate": "^0.0.1",
+    "cross-env": "^7.0.3",
+    "jest": "^28.1.1",
+    "nodemon": "^2.0.16",
+    "supertest": "^6.2.3",
+    "ts-jest": "^28.0.4",
+    "ts-node": "^10.8.0",
+    "typescript": "^4.7.2"
+  },
+  "dependencies": {
+    "@google-cloud/speech": "^4.10.2",
+    "uuid-validate": "^0.0.3"
+  }
+}
