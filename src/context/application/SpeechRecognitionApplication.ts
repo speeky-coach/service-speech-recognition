@@ -3,7 +3,7 @@ import SpeechRecognitionService from '../domain/SpeechRecognitionService';
 import ConversationTranscribedDomainEvent from '../domain/ConversationTranscribedDomainEvent';
 import ConversationRepository from '../domain/ConversationRepository';
 
-export interface ProcessAudioFileRequest {
+export interface TranscribeAudioFileRequest {
   conversationAudioFileUri: string;
 }
 
@@ -14,10 +14,12 @@ class SpeechRecognitionApplication {
     private eventBus: EventBus,
   ) {}
 
-  public async processAudioFile({ conversationAudioFileUri }: ProcessAudioFileRequest): Promise<void> {
+  public async transcribeAudioFile({ conversationAudioFileUri }: TranscribeAudioFileRequest): Promise<void> {
     const conversation = await this.speechRecognitionService.recognizeByAudioUri(conversationAudioFileUri);
 
-    await this.conversationRepository.save(conversation);
+    const conversationId = await this.conversationRepository.add(conversation);
+
+    conversation.id = conversationId;
 
     this.eventBus.publish([new ConversationTranscribedDomainEvent(conversation)]);
   }

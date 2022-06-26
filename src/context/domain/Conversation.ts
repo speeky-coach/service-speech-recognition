@@ -1,4 +1,4 @@
-export type ConversationId = number;
+export type ConversationId = string;
 
 export interface ConversationTime {
   seconds: string;
@@ -21,7 +21,7 @@ export interface Paragraph {
 }
 
 interface Conversation {
-  id: ConversationId | null;
+  id?: ConversationId | null;
   paragraphs: Paragraph[];
 }
 

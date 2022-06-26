@@ -1,7 +1,7 @@
-import Conversation from './Conversation';
+import Conversation, { ConversationId } from './Conversation';
 
 interface ConversationRepository {
-  save(conversation: Conversation): Promise<void>;
+  add(conversation: Conversation): Promise<ConversationId>;
 }
 
 export default ConversationRepository;

@@ -1,14 +1,18 @@
-import Conversation from '../../domain/Conversation';
+import Conversation, { ConversationId } from '../../domain/Conversation';
 import ConversationRepository from '../../domain/ConversationRepository';
 
 class ConversationRepositoryMock implements ConversationRepository {
   public conversations: Conversation[] = [];
 
-  public async save(conversation: Conversation): Promise<void> {
+  public async add(conversation: Conversation): Promise<ConversationId> {
+    const newId = this.conversations.length + 1;
+
     this.conversations.push({
       ...conversation,
-      id: this.conversations.length + 1,
+      id: newId.toString(),
     });
+
+    return newId.toString();
   }
 }
 

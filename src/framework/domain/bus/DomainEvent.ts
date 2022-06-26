@@ -1,4 +1,4 @@
-import UuidValueObject from '../valueObject/UuidValueObject';
+import UuidValueObject from '../value-objects/UuidValueObject';
 
 abstract class DomainEvent {
   static EVENT_NAME: string;

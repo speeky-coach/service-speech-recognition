@@ -30,16 +30,22 @@ describe('SpeechRecognitionApplication', () => {
       speechRecognitionServiceMock.conversation = conversation;
 
       // When
-      await speechRecognitionApplication.processAudioFile({
+      await speechRecognitionApplication.transcribeAudioFile({
         conversationAudioFileUri: 'gs://axy-development-audio-files/audio_test_1.flac',
       });
 
       // Then
       expect(conversationRepositoryMock.conversations.at(0)).toMatchObject({
-        id: 1,
+        id: '1',
         paragraphs: [...conversationSnapshot.paragraphs],
       });
-      // eventBusMock.events.at(0);
+      expect(eventBusMock.events.at(0)).toMatchObject({
+        eventName: 'domain_event.conversation.transcribed',
+        data: {
+          id: '1',
+          paragraphs: [...conversationSnapshot.paragraphs],
+        },
+      });
     });
   });
 });
