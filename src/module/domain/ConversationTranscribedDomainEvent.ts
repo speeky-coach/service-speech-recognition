@@ -2,7 +2,7 @@ import DomainEvent from '../../framework/domain/bus/DomainEvent';
 import Conversation from './Conversation';
 
 class ConversationTranscribedDomainEvent extends DomainEvent {
-  static readonly EVENT_NAME = 'domain_event.conversation.transcribed';
+  static readonly EVENT_NAME = 'domain_event.speech_recognition.conversation_transcribed';
 
   readonly data: Conversation;
 

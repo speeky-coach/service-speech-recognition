@@ -1,1 +1,3 @@
-export type EntityId = number; // string;
+export type UserId = string;
+
+export type EntityId = number;

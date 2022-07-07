@@ -1,7 +1,8 @@
 import speech, { protos } from '@google-cloud/speech';
 import { SpeechClient } from '@google-cloud/speech/build/src/v1p1beta1/speech_client';
+import { UserId } from '../../framework/domain/types';
 
-import Conversation, { Paragraph, Word, ConversationTime } from '../domain/Conversation';
+import { Paragraph, Word, ConversationTime, Transcription } from '../domain/Conversation';
 import SpeechRecognitionService from '../domain/SpeechRecognitionService';
 
 type LongRunningRecognizeResponse = protos.google.cloud.speech.v1p1beta1.ILongRunningRecognizeResponse;
@@ -32,6 +33,10 @@ class SpeechRecognitionServiceAdapter implements SpeechRecognitionService {
 
   constructor() {
     this.client = new speech.v1p1beta1.SpeechClient();
+  }
+
+  private getFileURL(userId: UserId, filename: string): string {
+    return `gs://${process.env.GOOGLE_CLOUD_STORAGE_BUCKET}/users/${userId}/conversations/${filename}`;
   }
 
   private async getResponse(audioUri: string): Promise<LongRunningRecognizeResponse> {
@@ -91,17 +96,18 @@ class SpeechRecognitionServiceAdapter implements SpeechRecognitionService {
     return paragraphs;
   }
 
-  public async recognizeByAudioUri(audioUri: string): Promise<Conversation> {
-    const { results, totalBilledTime } = await this.getResponse(audioUri);
+  public async recognizeByAudioUri(userId: UserId, filename: string): Promise<Transcription> {
+    const audioURL = this.getFileURL(userId, filename);
+
+    const { results, totalBilledTime } = await this.getResponse(audioURL);
 
     const paragraphs = this.getParagraphs(results!);
 
-    const conversation: Conversation = {
-      id: null,
+    const transcription: Transcription = {
       paragraphs,
     };
 
-    return conversation;
+    return transcription;
   }
 }
 

@@ -1,3 +1,5 @@
+import { UserId } from '../../framework/domain/types';
+
 export type ConversationId = string;
 
 export interface ConversationTime {
@@ -20,9 +22,18 @@ export interface Paragraph {
   words: Word[];
 }
 
-interface Conversation {
-  id?: ConversationId | null;
+export interface Transcription {
   paragraphs: Paragraph[];
+}
+
+interface Conversation {
+  id: ConversationId;
+  userId: UserId;
+  filename: string;
+  transcription?: Transcription;
+  createdAt: Date;
+  updatedAt?: Date;
+  deletedAt?: Date;
 }
 
 export default Conversation;
