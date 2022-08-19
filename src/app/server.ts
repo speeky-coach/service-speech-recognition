@@ -1,7 +1,9 @@
 import 'dotenv/config';
-
-import { rabbitMQApp } from '../framework/rabbitmq/RabbitMQApp';
+import packageJson from '../../package.json';
+import { rabbitMQApp } from '../setup/rabbitmq';
 import speechRecognitionModule from '../module/module';
+
+console.log('version', packageJson.version);
 
 rabbitMQApp.addSubscriber(speechRecognitionModule.subscriber);
 
@@ -14,3 +16,5 @@ async function main() {
 }
 
 main();
+
+export { rabbitMQApp };

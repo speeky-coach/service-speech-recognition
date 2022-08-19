@@ -1,4 +1,4 @@
-import DomainEvent from '../../framework/domain/bus/DomainEvent';
+import { DomainEvent } from '@speeky/framework';
 import Conversation from './Conversation';
 
 class ConversationTranscribedDomainEvent extends DomainEvent {

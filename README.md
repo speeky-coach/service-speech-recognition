@@ -1,8 +1,16 @@
 # Speeky Speech Recognition Service
 
-## Plug-in Dependencies
+## Deploy manually to Kubernetes
 
-- domain `domain-core-1.0.0v`
-- infrastructure `infrastructure-core-1.0.0v`
-- jest `jest-core-1.0.0v`
-- rabbitmq `rabbitmq-core-1.0.0v`
+```
+docker build -t brucegroverlee/speeky-service-speech-recognition .
+```
+
+```
+docker push brucegroverlee/speeky-service-speech-recognition
+```
+
+```
+cd ./kubernetes
+kubectl apply -f deployment.yaml
+```

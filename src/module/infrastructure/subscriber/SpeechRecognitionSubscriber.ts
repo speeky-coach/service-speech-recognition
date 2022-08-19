@@ -1,4 +1,4 @@
-import DomainEventDTO from '../../../framework/infrastructure/DomainEventDTO';
+import { DomainEventDTO } from '@speeky/framework';
 import SpeechRecognitionApplication from '../../application/SpeechRecognitionApplication';
 import Conversation from '../../domain/Conversation';
 import { speechRecognitionApplication } from '../speechRecognitionApplication';

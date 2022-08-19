@@ -1,4 +1,4 @@
-import EventBus from '../../framework/domain/bus/EventBus';
+import { EventBus } from '@speeky/framework';
 import SpeechRecognitionService from '../domain/SpeechRecognitionService';
 import ConversationTranscribedDomainEvent from '../domain/ConversationTranscribedDomainEvent';
 import Conversation from '../domain/Conversation';

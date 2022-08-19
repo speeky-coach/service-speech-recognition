@@ -1,6 +1,6 @@
 import speech, { protos } from '@google-cloud/speech';
 import { SpeechClient } from '@google-cloud/speech/build/src/v1p1beta1/speech_client';
-import { UserId } from '../../framework/domain/types';
+import { UserId } from '@speeky/framework';
 
 import { Paragraph, Word, ConversationTime, Transcription } from '../domain/Conversation';
 import SpeechRecognitionService from '../domain/SpeechRecognitionService';

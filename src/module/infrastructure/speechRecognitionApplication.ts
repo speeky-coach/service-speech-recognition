@@ -1,4 +1,4 @@
-import { rabbitMQEventBus } from '../../framework/rabbitmq/RabbitMQEventBus';
+import { rabbitMQEventBus } from '../../setup/rabbitmq';
 import SpeechRecognitionApplication from '../application/SpeechRecognitionApplication';
 import { speechRecognitionServiceAdapter } from './SpeechRecognitionServiceAdapter';
 
